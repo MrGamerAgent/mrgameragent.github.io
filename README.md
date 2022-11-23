@@ -106,4 +106,4 @@ This is a simple test for now
 <div class="jw-element-imagetext-text">
             <p>3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack beschreibung3.1 Pack </p>    </div>
     </div>
-</div></div>    </div></div>
+</div>
