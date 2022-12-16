@@ -1,4 +1,4 @@
-See here what I'm buying: [Link to another page](./buying.html).
+See here what I'm selling: [selling](./)
 <table class="jw-table jw-table--header jw-table--striped" width="100%">
             <thead>
             <tr>
