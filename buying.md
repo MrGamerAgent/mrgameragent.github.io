@@ -1,4 +1,4 @@
-See here what I'm selling: [selling](./)
+See here what I'm [selling](./)
 <table class="jw-table jw-table--header jw-table--striped" width="100%">
             <thead>
             <tr>
