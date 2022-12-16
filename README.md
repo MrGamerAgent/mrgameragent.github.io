@@ -88,7 +88,7 @@
                             </tr><tr>
                                     <td width="43%"> Glacite Jewel </td> 
                                     <td width="21%"> 150k  </td>
-                                    <td width="36%"> 70  </td>
+                                    <td width="36%"> 7  </td>
                             </tr><tr>
                                     <td width="43%"> - </td> 
                                     <td width="21%"> -  </td>
