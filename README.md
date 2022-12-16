@@ -1,333 +1,129 @@
-# test
-This is a simple test for now
 <table class="jw-table jw-table--header jw-table--striped" width="100%">
             <thead>
             <tr>
-                                    <th width="43%">Item</th>
-                                    <th width="21%">Price</th>
-                                    <th width="36%">Available</th>
+                                    <th width="43%">Item (Selling) </th>
+                                    <th width="21%">Price </th>
+                                    <th width="36%">Available </th>
                             </tr>
         </thead>
         <tbody>
                     <tr>
-                                    <td width="43%">
-                        Superboom                    </td>
-                                    <td width="21%">
-                        11                    </td>
-                                    <td width="36%">
-                        00                    </td>
+                                    <td width="43%"> Candy Talisman </td> 
+                                    <td width="21%"> 100k  </td>
+                                    <td width="36%"> 40  </td>
                             </tr>
-                    <tr>
-                                    <td>
-                        Rare Guardian                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        NVCharm                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        Candy Talisman                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        a                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        b                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        c                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        d                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        e                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        f                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        g                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        h                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        i                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        j                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        k                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        l                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        m                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        n                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        o                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        p                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        q                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        r                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        s                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        t                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        u                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        v                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        w                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        x                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        y                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        z                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        1                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        2                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        3                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        4                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        5                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        6                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        7                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        8                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        9                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
-                            </tr>
-                    <tr>
-                                    <td>
-                        0                    </td>
-                                    <td>
-                        11                    </td>
-                                    <td>
-                        00                    </td>
+<tr>
+                                    <td width="43%"> Superboom (16x) </td> 
+                                    <td width="21%"> 30k  </td>
+                                    <td width="36%"> 640+  </td>
+                            </tr><tr>
+                                    <td width="43%"> Fire Talisman </td> 
+                                    <td width="21%"> 60k  </td>
+                                    <td width="36%"> 15  </td>
+                            </tr><tr>
+                                    <td width="43%"> Lava Talisman </td> 
+                                    <td width="21%"> 40k  </td>
+                                    <td width="36%"> 15  </td>
+                            </tr><tr>
+                                    <td width="43%"> Magic Find 1 Potion </td> 
+                                    <td width="21%"> 200k  </td>
+                                    <td width="36%"> 34  </td>
+                            </tr><tr>
+                                    <td width="43%"> Magical Lava Bucket </td> 
+                                    <td width="21%"> 4k  </td>
+                                    <td width="36%"> 8  </td>
+                            </tr><tr>
+                                    <td width="43%"> Magical Water Bucket </td> 
+                                    <td width="21%"> 4k  </td>
+                                    <td width="36%"> 12  </td>
+                            </tr><tr>
+                                    <td width="43%"> Night Vision Charm </td> 
+                                    <td width="21%"> 30k  </td>
+                                    <td width="36%"> 10  </td>
+                            </tr><tr>
+                                    <td width="43%"> Rare Guardian Lvl 1 </td> 
+                                    <td width="21%"> 1m  </td>
+                                    <td width="36%"> 8  </td>
+                            </tr><tr>
+                                    <td width="43%"> Shiny Orb </td> 
+                                    <td width="21%"> 60k  </td>
+                                    <td width="36%"> 128+  </td>
+                            </tr><tr>
+                                    <td width="43%"> Spirit 1 Potion </td> 
+                                    <td width="21%"> 75k  </td>
+                                    <td width="36%"> 50  </td>
+                            </tr><tr>
+                                    <td width="43%"> Trick or Treat Bag </td> 
+                                    <td width="21%"> 15k  </td>
+                                    <td width="36%"> 46  </td>
+                            </tr><tr>
+                                    <td width="43%"> Vaccine Talisman </td> 
+                                    <td width="21%"> 250  </td>
+                                    <td width="36%"> 18  </td>
+                            </tr><tr>
+                                    <td width="43%"> Wand of Healing </td> 
+                                    <td width="21%"> 10k  </td>
+                                    <td width="36%"> 21  </td>
+                            </tr><tr>
+                                    <td width="43%"> Mystical Mushroom Soup </td> 
+                                    <td width="21%"> 30k  </td>
+                                    <td width="36%"> 128+  </td>
+                            </tr><tr>
+                                    <td width="43%"> Snow Minion T1 </td> 
+                                    <td width="21%"> 450k  </td>
+                                    <td width="36%"> 8  </td>
+                            </tr><tr>
+                                    <td width="43%"> Diamond Spreading </td> 
+                                    <td width="21%"> 8k  </td>
+                                    <td width="36%"> 25  </td>
+                            </tr><tr>
+                                    <td width="43%"> Repelling Candle </td> 
+                                    <td width="21%"> 50k  </td>
+                                    <td width="36%"> 10  </td>
+                            </tr><tr>
+                                    <td width="43%"> Day Saver </td> 
+                                    <td width="21%"> 40k  </td>
+                                    <td width="36%"> 6  </td>
+                            </tr><tr>
+                                    <td width="43%"> - </td> 
+                                    <td width="21%"> -  </td>
+                                    <td width="36%"> -  </td>
+                            </tr><tr>
+                                    <td width="43%"> - </td> 
+                                    <td width="21%"> -  </td>
+                                    <td width="36%"> -  </td>
+                            </tr><tr>
+                                    <td width="43%"> - </td> 
+                                    <td width="21%"> -  </td>
+                                    <td width="36%"> -  </td>
+                            </tr><tr>
+                                    <td width="43%"> - </td> 
+                                    <td width="21%"> -  </td>
+                                    <td width="36%"> -  </td>
+                            </tr><tr>
+                                    <td width="43%"> - </td> 
+                                    <td width="21%"> -  </td>
+                                    <td width="36%"> -  </td>
+                            </tr><tr>
+                                    <td width="43%"> - </td> 
+                                    <td width="21%"> -  </td>
+                                    <td width="36%"> -  </td>
+                            </tr><tr>
+                                    <td width="43%"> - </td> 
+                                    <td width="21%"> -  </td>
+                                    <td width="36%"> -  </td>
+                            </tr><tr>
+                                    <td width="43%"> - </td> 
+                                    <td width="21%"> -  </td>
+                                    <td width="36%"> -  </td>
+                            </tr><tr>
+                                    <td width="43%"> - </td> 
+                                    <td width="21%"> -  </td>
+                                    <td width="36%"> -  </td>
+                            </tr><tr>
+                                    <td width="43%"> - </td> 
+                                    <td width="21%"> -  </td>
+                                    <td width="36%"> -  </td>
                             </tr>
             </tbody>
 </table>
