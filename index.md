@@ -86,9 +86,9 @@
                                     <td width="21%"> 40k  </td>
                                     <td width="36%"> 6  </td>
                             </tr><tr>
-                                    <td width="43%"> Glacite Jewel </td> 
+                                    <td width="43%"> ~~Glacite Jewel~~ </td> 
                                     <td width="21%"> 150k  </td>
-                                    <td width="36%"> 7  </td>
+                                    <td width="36%"> 0  </td>
                             </tr><tr>
                                     <td width="43%"> - </td> 
                                     <td width="21%"> -  </td>
