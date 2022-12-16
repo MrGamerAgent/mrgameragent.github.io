@@ -12,8 +12,7 @@
                                     <td width="43%"> Candy Talisman </td> 
                                     <td width="21%"> 100k  </td>
                                     <td width="36%"> 40  </td>
-                            </tr>
-<tr>
+                            </tr><tr>
                                     <td width="43%"> Superboom (16x) </td> 
                                     <td width="21%"> 30k  </td>
                                     <td width="36%"> 640+  </td>
@@ -86,7 +85,7 @@
                                     <td width="21%"> 40k  </td>
                                     <td width="36%"> 6  </td>
                             </tr><tr>
-                                    <td width="43%"> ~~Glacite Jewel~~ </td> 
+                                    <td width="43%"> <s>Glacite Jewel</s> </td> 
                                     <td width="21%"> 150k  </td>
                                     <td width="36%"> 0  </td>
                             </tr><tr>
