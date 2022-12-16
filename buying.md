@@ -22,9 +22,9 @@
                                     <td width="21%"> 700k  </td>
                                     <td width="36%"> 5  </td>
                             </tr><tr>
-                                    <td width="43%"> - </td> 
-                                    <td width="21%"> -  </td>
-                                    <td width="36%"> -  </td>
+                                    <td width="43%"> Crystal Fragment </td> 
+                                    <td width="21%"> 70k  </td>
+                                    <td width="36%"> 20  </td>
                             </tr><tr>
                                     <td width="43%"> - </td> 
                                     <td width="21%"> -  </td>
