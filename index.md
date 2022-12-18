@@ -14,7 +14,7 @@
                                     <td width="36%"> 40  </td>
                             </tr><tr>
                                     <td width="43%"> Superboom (16x) </td> 
-                                    <td width="21%"> 30k  </td>
+                                    <td width="21%"> 20k  </td>
                                     <td width="36%"> 640+  </td>
                             </tr><tr>
                                     <td width="43%"> Fire Talisman </td> 
