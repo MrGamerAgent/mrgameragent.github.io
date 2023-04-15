@@ -41,9 +41,9 @@
                                     <td width="21%"> 30k  </td>
                                     <td width="36%"> 10  </td>
                             </tr><tr>
-                                    <td width="43%"> Rare Guardian Lvl 1 </td> 
-                                    <td width="21%"> 1m  </td>
-                                    <td width="36%"> 8  </td>
+                                    <td width="43%"> Diamante's Handle </td> 
+                                    <td width="21%"> 1.5m  </td>
+                                    <td width="36%"> 16  </td>
                             </tr><tr>
                                     <td width="43%"> Shiny Orb </td> 
                                     <td width="21%"> 60k  </td>
@@ -70,8 +70,8 @@
                                     <td width="36%"> 128+  </td>
                             </tr><tr>
                                     <td width="43%"> Snow Minion T1 </td> 
-                                    <td width="21%"> 450k  </td>
-                                    <td width="36%"> 8  </td>
+                                    <td width="21%"> 400k  </td>
+                                    <td width="36%"> 15  </td>
                             </tr><tr>
                                     <td width="43%"> Diamond Spreading </td> 
                                     <td width="21%"> 8k  </td>
@@ -85,9 +85,9 @@
                                     <td width="21%"> 40k  </td>
                                     <td width="36%"> 6  </td>
                             </tr><tr>
-                                    <td width="43%"> <s>Glacite Jewel</s> </td> 
-                                    <td width="21%"> 150k  </td>
-                                    <td width="36%"> 0  </td>
+                                    <td width="43%"> Capsacin Eyedrops </td> 
+                                    <td width="21%"> 6m </td>
+                                    <td width="36%"> 5  </td>
                             </tr><tr>
                                     <td width="43%"> - </td> 
                                     <td width="21%"> -  </td>
